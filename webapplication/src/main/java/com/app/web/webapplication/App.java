@@ -63,6 +63,7 @@ public class App
 	}
 	public boolean equals(String s) {
 		// oops, this probably was supposed to be equals(Object)
+		//olalal
 		return true;
 	}
 
